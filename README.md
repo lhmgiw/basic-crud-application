@@ -10,10 +10,12 @@ This is a simple spring boot application that can Create, View, Update and Delet
 * ModelMapper
 
 ## Prerequisites
-To run this project, you need to installed;
+1. To run this project, you need to installed;
 * Java 8
 * IDE like InteliJ idea
 * pgAdmin
+2. Create schema called "library"
+
 
 ## Features
 * Customized error messages from external file
